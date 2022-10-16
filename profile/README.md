@@ -10,8 +10,9 @@
 - Spring Boot 2.7.4
 - Spring Data JPA
 - Spring Security
-- Mysql
 - Java 17
+- Mysql
+
 ### Client
 
 ## System Architecture
